@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- SEO -->
+  <title>Sicurezza reale: analisi, rischio e prevenzione | Quello della Sicurezza</title>
+  <meta name="description" content="Analisi sulla sicurezza reale: rischio, prevenzione e comportamento. Insight pratici per evitare problemi prima che accadano." />
+
+  <!-- Open Graph (per condivisione) -->
+  <meta property="og:title" content="Quello della Sicurezza">
+  <meta property="og:description" content="Analisi indipendenti sulla sicurezza reale">
+  <meta property="og:type" content="website">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b0b0b;
+      color: #eaeaea;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 650px;
+      margin: auto;
+      padding: 30px 20px;
+    }
+
+    .tag {
+      font-size: 12px;
+      letter-spacing: 1px;
+      color: #777;
+      margin-bottom: 20px;
+    }
+
+    .hero-img {
+      width: 160px;
+      height: 160px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-bottom: 20px;
+      filter: grayscale(100%);
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      font-size: 15px;
+      color: #aaa;
+      margin-bottom: 25px;
+      line-height: 1.6;
+    }
+
+    .cta {
+      display: block;
+      background: #ff6719;
+      color: white;
+      padding: 16px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      margin: 15px 0;
+    }
+
+    .cta:hover {
+      opacity: 0.9;
+    }
+
+    .form {
+      margin: 25px 0;
+    }
+
+    input[type="email"] {
+      padding: 14px;
+      width: 70%;
+      max-width: 300px;
+      border-radius: 8px;
+      border: none;
+      margin-bottom: 10px;
+    }
+
+    button {
+      padding: 14px 20px;
+      border: none;
+      border-radius: 8px;
+      background: #ff6719;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .box {
+      border: 1px solid #222;
+      padding: 20px;
+      border-radius: 12px;
+      margin-top: 25px;
+      text-align: left;
+      background: #111;
+    }
+
+    .box-title {
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+    }
+
+    .secondary {
+      margin-top: 25px;
+    }
+
+    .secondary a {
+      margin: 5px;
+      color: #888;
+      text-decoration: none;
+      font-size: 13px;
+    }
+
+    .footer {
+      margin-top: 35px;
+      font-size: 11px;
+      color: #555;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="tag">ANALISI INDIPENDENTI</div>
+
+    <!-- HERO -->
+    <a href="https://quellodellasicurezza.substack.com" target="_blank">
+      <img src="substack-profile.jpg" class="hero-img">
+    </a>
+
+    <h1>Capire la sicurezza reale, prima che serva</h1>
+
+    <div class="subtitle">
+      Insight su rischio, prevenzione e comportamento.<br>
+      Solo ciò che conta davvero.
+    </div>
+
+    <!-- 🔥 FORM DIRETTO -->
+    <div class="form">
+      <form action="https://quellodellasicurezza.substack.com/subscribe" method="post" target="_blank">
+        <input type="email" name="email" placeholder="La tua email" required><br>
+        <button type="submit">Iscriviti gratis</button>
+      </form>
+    </div>
+
+    <!-- CTA backup -->
+    <a class="cta" href="https://quellodellasicurezza.substack.com" target="_blank">
+      Vai alla newsletter
+    </a>
+
+    <!-- INSIGHT -->
+    <div class="box">
+      <div class="box-title">Cosa trovi</div>
+      Analisi su dinamiche di rischio reale, segnali deboli e situazioni ignorate finché non è troppo tardi.
+    </div>
+
+    <div class="box">
+      <div class="box-title">Perché leggerla</div>
+      Per sviluppare un modo diverso di osservare ciò che accade intorno a te.
+    </div>
+
+    <!-- SOCIAL -->
+    <div class="secondary">
+      <a href="https://x.com/QSicurezza52568" target="_blank">X</a>
+      <a href="https://instagram.com/quellodellasicurezza" target="_blank">Instagram</a>
+    </div>
+
+    <div class="footer">
+      Pubblicazioni indipendenti sulla sicurezza reale
+    </div>
+
+  </div>
+</body>
+</html>
